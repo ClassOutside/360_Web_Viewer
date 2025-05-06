@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@pmndrs/uikit": "workspace:^",
+    "@pmndrs/uikit-lucide": "workspace:^"
+  },
+  "scripts": {
+    "dev": "vite --host"
+  }
+}

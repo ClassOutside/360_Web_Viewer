@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@preact/signals-core": "^1.5.1",
+    "@react-three/uikit": "workspace:^"
+  },
+  "scripts": {
+    "dev": "vite --host"
+  }
+}

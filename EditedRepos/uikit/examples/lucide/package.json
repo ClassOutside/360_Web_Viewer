@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@react-three/uikit": "workspace:^",
+    "@react-three/uikit-lucide": "workspace:^"
+  },
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build"
+  }
+}

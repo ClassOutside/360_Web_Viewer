@@ -1,0 +1,17 @@
+{
+  "type": "slideshow",
+  "destinations": [
+    {
+      "imageLocation": "/360Photos/pretoria_gardens.jpg",
+      "destinationID": 0
+    },
+    {
+      "imageLocation": "/360Photos/symmetrical_garden_02.jpg",
+      "destinationID": 1
+    },
+    {
+      "imageLocation": "/360Videos/360_vr_master_series___free_download___view_on_low_waterfall_with_nice_city-soundTest.mp4",
+      "destinationID": 2
+    }
+  ]
+}
